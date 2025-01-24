@@ -24,12 +24,18 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+- Chatbot berbasis data perusahaan.
+- Analisis bisnis otomatis.
+- Asisten virtual untuk pencarian data.
 
 ## Project setup
 
 ```bash
 $ pnpm install
+```
+
+```bash
+$ docker compose up --build -d
 ```
 
 ## Compile and run the project
