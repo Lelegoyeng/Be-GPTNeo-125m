@@ -45,3 +45,15 @@ $ pip install torch torchvision torchaudio --index-url https://download.pytorch.
 ```bash
 $ pip install transformers datasets accelerate
 ```
+
+```bash
+$ pnpm prisma generate
+```
+
+```bash
+$ pnpm prisma db push
+```
+
+```bash
+$ pnpm seed
+```
