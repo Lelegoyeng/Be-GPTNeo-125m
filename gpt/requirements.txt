@@ -1,0 +1,7 @@
+pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cpu
+pip install transformers datasets accelerate
+
+python -m venv myenv
+source myenv/bin/activate  # Linux/MacOS
+myenv\Scripts\activate     # Windows
+pip install transformers tensorflow==2.12.0 tf-keras

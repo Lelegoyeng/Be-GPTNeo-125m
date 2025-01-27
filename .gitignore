@@ -1,3 +1,7 @@
+#tunning
+/gpt/fine_tuned_model
+/gpt/myenv
+
 # compiled output
 /dist
 /node_modules
