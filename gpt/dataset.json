@@ -1,9 +1,6 @@
 [
-  { "text": "Apa itu gunung? Gunung adalah area tanah yang menjulang tinggi." },
-  { "text": "Apa bahasa Inggris dari gunung? Jawabannya adalah mountain." },
-  { "text": "Gunung dalam bahasa Inggris disebut mountain." },
-  { "text": "Gunung berapi adalah gunung yang dapat mengeluarkan lava." },
   {
-    "text": "Definisi gunung adalah bentuk permukaan bumi yang lebih tinggi dari sekitarnya."
+    "prompt": "Berapa jumlah karyawan?",
+    "completion": "Jumlah karyawan sekarang ini adalah |select count from employee"
   }
 ]
